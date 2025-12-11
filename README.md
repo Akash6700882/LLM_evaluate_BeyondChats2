@@ -1,8 +1,4 @@
-Sure, Akash! Here’s a professional, ready-to-use **README.md** for your LLM evaluation pipeline project:
 
----
-
-````markdown
 # LLM Response Evaluation Pipeline
 
 ## Project Description
@@ -104,6 +100,11 @@ Each chat evaluation produces a JSON file:
 This format makes it easy to integrate into analytics dashboards or further evaluation pipelines.
 
 ---
+
+##AUTHOR 
+M Akash 
+IIT Guwahati
+9392847778 ||  codes.akash@gmail.com
 
 ## License
 
